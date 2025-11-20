@@ -1,2 +1,2 @@
-# CarPlanet-V1.1
+# CarPlanet
 Car Planet (wowie)
